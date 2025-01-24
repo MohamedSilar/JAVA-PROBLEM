@@ -1,7 +1,3 @@
-Here's a comprehensive **Java README** for your GitHub repository, covering all aspects including project description, features, common problems, setup instructions, and tools:
-
----
-
 # ☕ Java Problems 
 
 --- 
