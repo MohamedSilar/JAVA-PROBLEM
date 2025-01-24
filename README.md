@@ -2,7 +2,7 @@ Here's a comprehensive **Java README** for your GitHub repository, covering all 
 
 ---
 
-# ☕ **Java Problems **
+# ☕ Java Problems 
 
 --- 
 ## ⚙️ **Development Environment**
