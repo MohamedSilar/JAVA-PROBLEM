@@ -41,8 +41,6 @@ public class thirdlargeelement {
 		}
 
 		System.out.println("Third: " + third);
-
-		
 	}
 
 	public static void main(String[] args) {
